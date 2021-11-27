@@ -1,0 +1,35 @@
+.header__h1{
+    color: rgb(255, 0, 0);
+}
+.header__p{
+    width: 200px;
+    height: 80px;
+    background-color: rgb(0, 25, 247);
+    color: rgb(255, 250, 240);
+}
+.header__p__seting{
+    margin-top: 150px;
+}
+.header__text{
+    color: rgb(255, 0, 0);
+}
+.text{
+    color: rgb(255, 250, 240);
+    background-color: rgb(0, 107, 27);
+}
+.text__2{
+    color: rgb(255, 250, 240);
+    background-color: rgb(0, 107, 27);
+    padding: 40px 0px 30px 45px;
+    max-height: 190px;
+}
+.text__3{
+    margin: 0 0 0 150px;
+}
+.ul__li{
+    border: 1px solid rgb(0, 0, 0);
+}
+.footer__text{
+    color: rgb(255, 250, 240);
+    background-color: rgb(0, 107, 27);
+}
